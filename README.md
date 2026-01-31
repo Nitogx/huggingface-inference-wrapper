@@ -37,6 +37,10 @@ import { HfInference } from '@huggingface/inference'
 
 const hf = new HfInference('your access token')
 ```
+### Soso
+```console
+soso install @clark-ai/huggingface-inference@2.8.1
+```
 
 ❗**Important note:** Using an access token is optional to get started, however you will be rate limited eventually. Join [Hugging Face](https://huggingface.co/join) and then visit [access tokens](https://huggingface.co/settings/tokens) to generate your access token for **free**.
 
